@@ -106,30 +106,6 @@ struct ScrollPosition: Codable {
 }
 ```
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Xcode 15.0 or later
-- iOS 17.0 or later
-- SwiftUI
-
-### Installation
-
-1. Create a new Xcode project:
-   - Open Xcode
-   - Create new project → iOS → App
-   - Name: "StateRecoveryApp"
-   - Interface: SwiftUI
-   - Language: Swift
-
-2. Add all Swift files to your project:
-   - Copy all `.swift` files to your project
-   - Ensure they're added to the target
-
-3. Build and run:
-   - Select your target device/simulator
-   - Press Cmd+R to build and run
-
 ## 💡 How It Works
 
 ### Screen Stack Restoration
